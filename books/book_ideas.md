@@ -13,9 +13,5 @@
 # This is the important rule #1
 # This is the important rule #2
 # This is the important rule #3
-
-
-
-
 # This is the important rule #4
 # This is the important rule #5
